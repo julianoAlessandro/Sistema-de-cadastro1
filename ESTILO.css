@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.center{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    height: 90px;
+    background-color:#212343;
+}
+.header img{
+margin: 22px;
+}
+.container{
+    width: 100%;
+    height: 477px;
+    background-image: url('../foto/header.png');
+    background-size: cover;
+    background-position: center;
+    
+}
+.forme{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    bottom: 1.375em;
+    position: relative;
+    right: 1.375em;
+ 
+   
+ 
+
+
+
+}
+.forme input{
+    margin: 15px;
+    box-shadow: 2px;
+    border-radius: 2px;
+    
+  
+}
+form{
+    height: 523px;
+    background-color:rgb(140, 140, 184);
+    height:calc(100% + 500px);
+    border:6px solid  #ccc;
+
+}
+fieldset{
+    height: 515px;
+    border:solid 1px;
+    padding: 17px;
+
+}
+form  h2{
+    text-align: center;
+}
+
+.enviar{
+    position: relative;
+    left: 56px;
+    margin: 12px;
+    padding: 7px;
+    width: 56%;
+    background-color: #212343;
+    color: aliceblue;
+}
+.inputs{
+    padding: 4px;
+    width: 180px;
+    position: relative;
+    right: 9px;
+}
+span{
+    color:#BBBBBB;
+}
+.cpf{
+    position: relative;
+    right: 16px;
+}
+.bloco{
+    width: 619px;
+    height: 270px;
+    background-color:rgba(33, 35,67 ,0.7);
+    margin-top: 80px;
+    float: left;
+    padding: 22px;
+    margin: 8px;
+}
+.bloco ul{
+    list-style-position: inside;
+}
+.bloco ul li{
+    color:white;
+}
+.bloco h3{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form .enviar{
+    margin-top: 72px;
+}
+
+.texto{
+    display: flex;
+    justify-content
+}
+
+.container2{
+
+}
